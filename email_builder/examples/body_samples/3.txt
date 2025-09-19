@@ -1,0 +1,30 @@
+☕ Public Wi‑Fi: Free Internet, Free Headaches
+
+Hello Digital Drifters,
+
+Today’s topic is Public Wi‑Fi Security — or as hackers call it, “All-You-Can-Steal Data Buffet.”
+
+Public Wi‑Fi is like free candy from a stranger:
+
+It’s tempting.
+It’s convenient.
+And it might come with a side of regret.
+Why Public Wi‑Fi is Risky:
+
+Man-in-the-Middle Attacks — No, it’s not a wrestling move. It’s when a hacker intercepts your data between you and the internet.
+Evil Twin Networks — Hackers set up a fake Wi‑Fi with a legit-sounding name like “Starbucks_Guest” (but it’s actually “Starbuks_Guest” — notice the missing ‘c’).
+Unencrypted Traffic — If the site you’re visiting doesn’t use HTTPS, your data is basically being broadcast like a bad reality TV show.
+How to Survive the Coffee Shop Jungle:
+
+Use a VPN — It encrypts your traffic so hackers see gibberish instead of your bank login.
+Turn off file sharing — Unless you want strangers to browse your vacation photos.
+Avoid sensitive transactions — Public Wi‑Fi is not the place to do your taxes.
+Forget the network after use — So your device doesn’t auto-connect later without asking.
+Best Practice of the Week:
+If you must use public Wi‑Fi, treat it like a public restroom: get in, do what you need to do, and get out — and for the love of all that is encrypted, wash your hands (digitally speaking).
+
+Stay encrypted,
+— Your Friendly Neighborhood Security Nerd 🦸‍♂️💻
+
+P.S. If you see someone in a café with a hoodie, sunglasses, and a laptop covered in “root access” stickers… they might just be a security researcher. Or not. Don’t test it.
+

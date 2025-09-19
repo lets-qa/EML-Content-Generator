@@ -1,0 +1,24 @@
+🔑 Passwords: Because “123456” is Basically a Welcome Mat
+
+Hello Cyber Citizens,
+
+Today’s topic is Password Security — the digital equivalent of locking your front door… except some of you are still leaving the key under the doormat labeled “KEY.”
+
+Common Password Crimes (and why you should stop committing them):
+
+Using “Password123” — This is the security equivalent of hiding in a horror movie and loudly saying, “I think we’re safe now.”
+Reusing passwords — If one site gets hacked, congratulations, you’ve just given hackers the keys to your entire online life.
+Short passwords — A 6-character password can be cracked faster than you can say “I should’ve listened to that weird newsletter guy.”
+How to Build a Fortress Password:
+
+Use at least 12 characters (longer is better — think “epic fantasy novel” length).
+Mix uppercase, lowercase, numbers, and symbols.
+Avoid personal info — your dog’s name is cute, but hackers love dogs too.
+Consider a password manager — because remembering 37 unique passwords is a job for robots, not humans.
+Best Practice of the Week:
+Enable multi-factor authentication (MFA) wherever possible. That way, even if someone steals your password, they still need your phone, your fingerprint, or your uncanny ability to identify traffic lights in CAPTCHA images.
+
+Stay secure,
+— Your Friendly Neighborhood Security Nerd 🦸‍♂️💻
+
+P.S. If your password is on this list of the most common passwords, change it immediately. Yes, even if it’s “iloveyou.”

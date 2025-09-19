@@ -1,0 +1,24 @@
+🐟 Phishing: The Only Catch You Don’t Want This Season
+
+Hello Fellow Netizens,
+
+Today’s topic is Phishing — the art of pretending to be someone you trust, but with the moral compass of a raccoon in a dumpster.
+
+Phishing emails are like bad dating profiles:
+
+They promise too much (“You’ve won a $1,000 gift card!”)
+They’re vague about details (“Click here to claim your prize”)
+And they get really pushy when you don’t respond.
+How to Spot a Phish (No Fishing License Required):
+
+Check the sender’s address — If “Amazon” is emailing you from totallylegit@free-money.biz, that’s a red flag.
+Hover over links — If the link says paypal.com but points to paypa1.ru, congratulations, you’ve found a cybercriminal’s summer home.
+Look for urgency — “Act now or lose access!” is hacker-speak for “I’m hoping you panic-click.”
+Trust your gut — If it smells fishy, it’s probably not salmon.
+Best Practice of the Week:
+Never click links in suspicious emails. Instead, go directly to the official website by typing the address yourself. Yes, it’s more work, but so is explaining to your boss why the company bank account is now empty.
+
+Stay safe,
+— Your Friendly Neighborhood Security Nerd 🦸‍♂️💻
+
+P.S. If you do get caught by a phish, report it immediately. The sooner you act, the less damage they can do.

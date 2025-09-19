@@ -1,3 +1,4 @@
-notifier@corp.example
-noreply@corp.example
-support@corp.example
+notifier@local.ingest.lets.qa
+noreply@dev.lets.qa
+support@home.lets.qa
+security@dev.lets.qa

@@ -1,3 +1,4 @@
-alice@example.com
-ops@corp.example
-billing@partner.net
+billing@local.ingest.lets.qa
+alice@dev.lets.qa
+orders@home.lets.qa
+info@dev.lets.qa
