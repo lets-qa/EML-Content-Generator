@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "email-builder"
+version = "0.1.0"
+description = "Generate realistic .eml files with configurable profiles, headers, attachments, and timestamp weighting."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Randall Morse", email = "rmorse@lets.qa" }]
+dependencies = []
+
+[project.scripts]
+email_builder = "email_builder.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["email_builder*"]
