@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{SUBJECT_LINE}}</title>
+<style>
+  /* Fallback styles for email clients that support embedded CSS */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  .email-container {
+    max-width: 600px;
+    margin: auto;
+    background-color: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  }
+  .header {
+    background-color: #2d89ef;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+  }
+  .header h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  .content {
+    padding: 20px;
+    color: #333333;
+    line-height: 1.6;
+  }
+  .content h2 {
+    color: #2d89ef;
+  }
+  .footer {
+    background-color: #f4f4f4;
+    padding: 15px;
+    font-size: 12px;
+    text-align: center;
+    color: #777777;
+  }
+  .tip {
+    background-color: #e8f4ff;
+    border-left: 4px solid #2d89ef;
+    padding: 10px;
+    margin-top: 20px;
+    font-style: italic;
+  }
+</style>
+</head>
+<body>
+  <div class="email-container">
+    <div class="header">
+      <h1>{{SUBJECT_LINE}}</h1>
+    </div>
+    <div class="content">
+      <h2>{{TOPIC_TITLE}}</h2>
+      <p>{{INTRO_PARAGRAPH}}</p>
+      <p>{{MAIN_CONTENT}}</p>
+      <p>{{HUMOROUS_ASIDE}}</p>
+
+      <div class="tip">
+        💡 <strong>Tech Tip of the Day:</strong> {{TECH_TIP}}
+      </div>
+    </div>
+    <div class="footer">
+      <p>Sent with ❤️ and a dash of awkward humor by Your Friendly Satirical Technologist AI.</p>
+      <p>If you didn’t sign up for this newsletter, you might be a victim of… irony.</p>
+    </div>
+  </div>
+</body>
+</html>
